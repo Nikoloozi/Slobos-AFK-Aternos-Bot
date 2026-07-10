@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "MamukelaGeia",
+    "username": "Slobot00",
     "password": "",
     "type": "online"
   },
   "server": {
     "ip": "6hello.aternos.me",
     "port": 58327,
-    "version": "1.21.3",
+    "version": "",
     "try-creative": false
   },
   "position": {
